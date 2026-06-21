@@ -1,4 +1,4 @@
-# Lab: Getting Started with Cloud Shell and gcloud
+# Lab 2: Getting Started with Cloud Shell and gcloud
 
 ## Summary of the Lab
 This lab introduced the fundamentals of interacting with Google Cloud resources using the command-line interface. By leveraging **Cloud Shell**, a managed Debian-based virtual machine, the lab demonstrated how to execute scoped infrastructure actions using the **gcloud CLI** without needing local software installations or cryptographic key management.
