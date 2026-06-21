@@ -13,11 +13,6 @@ The objective of this lab was to dissect the core architectural design and commu
 
 ### Key Architectural Concepts
 
-
-
-[Image of REST API client server model architecture]
-
-
 #### 1. RESTful API Blueprint (Representational State Transfer)
 * **Client-Server Architecture:** Web APIs function over a stateless layout where a client sends structured requests over standard URI pathways, and an isolated backend host processes and satisfies the request.
 * **HTTP Verbs (Operations Matrix):**
@@ -43,6 +38,7 @@ Before issuing a creation call, a standard metadata file specifying target resou
   "location": "us",
   "storageClass": "multi_regional"
 }
+
 #### 2. RESTful Resource Provisioning (Bucket Lifecycle Integration)
 Using an authenticated short-lived OAuth2 bearer token, a raw HTTP POST request was dispatched to the standard Cloud Storage API endpoint wrapper:
 curl -X POST --data-binary @values.json \
