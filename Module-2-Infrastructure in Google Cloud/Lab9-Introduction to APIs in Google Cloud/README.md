@@ -43,10 +43,14 @@ Before issuing a creation call, a standard metadata file specifying target resou
   "location": "us",
   "storageClass": "multi_regional"
 }
+#### 2. RESTful Resource Provisioning (Bucket Lifecycle Integration)
+Using an authenticated short-lived OAuth2 bearer token, a raw HTTP POST request was dispatched to the standard Cloud Storage API endpoint wrapper:
 curl -X POST --data-binary @values.json \
     -H "Authorization: Bearer $OAUTH2_TOKEN" \
     -H "Content-Type: application/json" \
     "[https://www.googleapis.com/storage/v1/b?project=$PROJECT_ID](https://www.googleapis.com/storage/v1/b?project=$PROJECT_ID)"
+#### 3. Binary Media Stream Upload Execution (Object Lifecycle Integration)
+To transfer an asset file (demo-image.png) into the object storage repository, a media upload URI modifier path query (uploadType=media) was called:
 curl -X POST --data-binary @$OBJECT \
     -H "Authorization: Bearer $OAUTH2_TOKEN" \
     -H "Content-Type: image/png" \
