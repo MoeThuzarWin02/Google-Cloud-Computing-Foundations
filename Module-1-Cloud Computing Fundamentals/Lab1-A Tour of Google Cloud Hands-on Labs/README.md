@@ -1,6 +1,6 @@
 # Lab 1: A Tour of Google Cloud Hands-on Labs
 
-## 📝 Summary of the Lab
+## Summary of the Lab
 This lab served as a foundational orientation to the Google Cloud hands-on learning environment. It outlined the operational mechanics of the orchestration platform, demonstrating how temporary sandbox credentials interface securely with the browser-based Google Cloud Console without conflicting with personal or corporate accounts.
 
 ## Lab Objective
