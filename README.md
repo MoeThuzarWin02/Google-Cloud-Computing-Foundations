@@ -9,7 +9,7 @@ This repository contains my work for the Google Cloud Computing Foundations Cert
 
 The portfolio documents:
 
-- 25 Google Cloud Labs
+- 23 Google Cloud Labs
 - Screenshots
 - Reflections
 - Configurations
