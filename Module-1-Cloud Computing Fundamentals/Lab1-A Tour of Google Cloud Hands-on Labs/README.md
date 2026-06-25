@@ -23,14 +23,14 @@ The objective was to familiarize myself with the core navigational hubs and stru
 
 ### IAM Policy Modification & API Activation Matrix
 To verify complete engagement with the cloud plane, administrative tasks were performed within the resource framework to track project status updates.
-
-**Scenario A: Administering Identity Modifications (Cloud IAM)**
+**Scenario A: Administering Identity Modifications (Cloud IAM)**  
 The interface console was accessed to append a runtime policy change, successfully registering a new identity block under the project schema tree:
+
 ```text
 IAM Console Action: Grant Access
 Principal Added: User 2
 Assigned Role: roles/viewer
 State: Policy verified and applied via cloud resource manager.
 
-### Wiki Link
-**[Lab 1: A Tour of Google Cloud Hands-on Labs](https://github.com/MoeThuzarWin02/Google-Cloud-Computing-Foundations/wiki/Lab-1:-A-Tour-of-Google-Cloud-Hands%E2%80%90on-Labs)**
+## Repository Link
+🔗 https://github.com/your-username/your-repository
