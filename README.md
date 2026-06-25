@@ -22,6 +22,8 @@ The portfolio documents:
 - Module 3 – Networking & Security in Google Cloud
 - Module 4 – Data, ML & AI in Google Cloud
 
-## GitHub Wiki
 
-Please refer to the Wiki for detailed learning progress.
+## Wiki Documentation
+All lab reports and progress are documented in my GitHub Wiki:
+
+🔗 [View Wiki Portfolio](https://github.com/MoeThuzarWin02/Google-Cloud-Computing-Foundations/wiki)
