@@ -31,3 +31,6 @@ IAM Console Action: Grant Access
 Principal Added: User 2
 Assigned Role: roles/viewer
 State: Policy verified and applied via cloud resource manager.
+
+## Wiki Link
+https://github.com/MoeThuzarWin02/Google-Cloud-Computing-Foundations/wiki/Lab-1:-A-Tour-of-Google-Cloud-Hands%E2%80%90on-Labs
