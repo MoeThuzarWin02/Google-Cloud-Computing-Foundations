@@ -32,5 +32,3 @@ Principal Added: User 2
 Assigned Role: roles/viewer
 State: Policy verified and applied via cloud resource manager.
 
-## Repository Link
-🔗 https://github.com/your-username/your-repository
