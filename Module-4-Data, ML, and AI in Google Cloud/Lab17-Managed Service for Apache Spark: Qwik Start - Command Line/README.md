@@ -1,4 +1,4 @@
-## Lab 22: Managed Service for Apache Spark: Qwik Start - Command Line
+## Lab 17: Managed Service for Apache Spark: Qwik Start - Command Line
 
 ### Objective
 The objective of this lab was to provision, manage, and scale a fully managed Apache Spark and Hadoop cluster using **Cloud Dataproc** via the `gcloud` CLI. The lab demonstrated how to handle necessary IAM permissions for service accounts, enable Private Google Access on a VPC subnet, submit a computationally heavy Spark job, and dynamically scale cluster worker nodes up and down without causing operational downtime.
